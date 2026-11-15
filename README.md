@@ -7,7 +7,7 @@ CRUD (Create, Read, Update, Delete) operations on a `students` table.
 
 ## 🎥 Video Demonstration
 
-**Video link:** PASTE_YOUR_VIDEO_LINK_HERE
+**Video link:** *To be added once the demonstration video has been recorded and uploaded.*
 
 ---
 
